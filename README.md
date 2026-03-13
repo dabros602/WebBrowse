@@ -8,6 +8,6 @@ WebBrowse is a simple browser based off the Tkhtml3 framework.
 - Refresh button
 - Settings file
 ## Requirments
-tkinterweb
-tkinterweb-tkhtml
-tkinterweb-tkhtml-extras
+- tkinterweb
+- tkinterweb-tkhtml
+- tkinterweb-tkhtml-extras
